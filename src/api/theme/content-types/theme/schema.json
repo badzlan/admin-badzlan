@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "themes",
+  "info": {
+    "singularName": "theme",
+    "pluralName": "themes",
+    "displayName": "Theme"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "primary": {
+      "type": "string"
+    },
+    "blur_top": {
+      "type": "string"
+    },
+    "blur_bottom": {
+      "type": "string"
+    }
+  }
+}
